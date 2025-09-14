@@ -1,2 +1,5 @@
 node_modules/
 .husky/_/
+.env
+__pycache__/
+*.pyc
